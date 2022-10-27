@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Rubik&display=swap');
+
+body main {
+    margin: 0;
+    display: flex;
+    font-family: 'Fuzzy Bubbles', cursive;
+    background-color: #FFFAF0;
+}
+.audi p {
+    background-color: #FFE4C4;
+    border-radius: 10px;
+    font-weight: 400;
+    width: 90px;
+    padding: 4px;
+    margin: 10px;
+   
+}
+
+.carta .titulo {
+    font-size: 40px;
+    text-align: center;
+}
+
+.corpodacarta {
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+    margin: 49px;
+}
+
+.imge img {
+    justify-content: center;
+    
+}
+.imagens .a img{
+    width: 460px;
+    height: 460px;
+    margin: 5px;
+}
+.imagens .b  img{
+
+    width: 460px;
+    height: 460px;
+    margin: 5px;
+}
